@@ -592,9 +592,6 @@ msgid ""
 "used to vote in special MEOW governor contracts."
 msgstr ""
 
-msgid "MEV Shield by Archer DAO"
-msgstr ""
-
 msgid "Manage"
 msgstr "Gestionar"
 
@@ -871,9 +868,6 @@ msgid "Select an order expiration"
 msgstr ""
 
 msgid "Send to:"
-msgstr ""
-
-msgid "Send transaction privately to avoid front-running and sandwich attacks. Requires a miner tip to incentivize miners"
 msgstr ""
 
 msgid "Share of Pool"
