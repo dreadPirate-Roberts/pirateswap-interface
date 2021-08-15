@@ -48,8 +48,8 @@ msgstr "Thêm"
 msgid "Add Liquidity"
 msgstr "Thêm thanh khoản"
 
-msgid "Add SUSHI to your MetaMask wallet"
-msgstr "Thêm xSUSHI vào ví MetaMask của bạn"
+msgid "Add PIRATE to your MetaMask wallet"
+msgstr ""
 
 msgid "Add collateral in order to borrow assets"
 msgstr "Thêm tài sản thế chấp để vay tài sản"
@@ -57,8 +57,8 @@ msgstr "Thêm tài sản thế chấp để vay tài sản"
 msgid "Add liquidity"
 msgstr "Thêm thanh khoản"
 
-msgid "Add xSUSHI to your MetaMask wallet"
-msgstr "Thêm xSUSHI vào ví MetaMask của bạn"
+msgid "Add xPIRATE to your MetaMask wallet"
+msgstr ""
 
 msgid "Add {0} to MetaMask"
 msgstr "Thêm {0} vào MetaMask"
@@ -326,8 +326,14 @@ msgstr "Bỏ qua"
 msgid "Docs"
 msgstr "Tài liệu"
 
+msgid "Documentation for developers of PirateSwap."
+msgstr ""
+
 msgid "Documentation for developers of Sushi."
 msgstr "Tài liệu dành cho các nhà phát triển Sushi."
+
+msgid "Documentation for users of PirateSwap."
+msgstr ""
 
 msgid "Documentation for users of Sushi."
 msgstr "Tài liệu cho người dùng Sushi."
@@ -727,6 +733,9 @@ msgstr "Đang chờ xử lý"
 
 msgid "Pending Treasury Transfer"
 msgstr "Chuyển tiền đang chờ xử lý"
+
+msgid "PirateSwap is a supporter of Open Source."
+msgstr ""
 
 msgid "Please connect to the appropriate Ethereum network."
 msgstr "Vui lòng kết nối với mạng Ethereum thích hợp."

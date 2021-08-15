@@ -48,8 +48,8 @@ msgstr "Добавить"
 msgid "Add Liquidity"
 msgstr "Добавить ликвидность"
 
-msgid "Add SUSHI to your MetaMask wallet"
-msgstr "Добавьте SUSHI в свой кошелек MetaMask"
+msgid "Add PIRATE to your MetaMask wallet"
+msgstr ""
 
 msgid "Add collateral in order to borrow assets"
 msgstr "Добавьте залог, чтобы заимствовать активы"
@@ -57,8 +57,8 @@ msgstr "Добавьте залог, чтобы заимствовать акт�
 msgid "Add liquidity"
 msgstr "Добавить ликвидность"
 
-msgid "Add xSUSHI to your MetaMask wallet"
-msgstr "Добавьте xSUSHI в свой кошелек MetaMask"
+msgid "Add xPIRATE to your MetaMask wallet"
+msgstr ""
 
 msgid "Add {0} to MetaMask"
 msgstr "Добавить {0} в MetaMask"
@@ -326,8 +326,14 @@ msgstr "Отклонить"
 msgid "Docs"
 msgstr "Документы"
 
+msgid "Documentation for developers of PirateSwap."
+msgstr ""
+
 msgid "Documentation for developers of Sushi."
 msgstr "Документация для разработчиков Sushi."
+
+msgid "Documentation for users of PirateSwap."
+msgstr ""
 
 msgid "Documentation for users of Sushi."
 msgstr "Документация для пользователей Sushi."
@@ -727,6 +733,9 @@ msgstr "В ожидании"
 
 msgid "Pending Treasury Transfer"
 msgstr "Перевод казначейства в ожидании"
+
+msgid "PirateSwap is a supporter of Open Source."
+msgstr ""
 
 msgid "Please connect to the appropriate Ethereum network."
 msgstr "Подключитесь к соответствующей сети Ethereum."

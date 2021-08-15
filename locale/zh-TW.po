@@ -48,8 +48,8 @@ msgstr "添加"
 msgid "Add Liquidity"
 msgstr "添加流動性"
 
-msgid "Add SUSHI to your MetaMask wallet"
-msgstr "新增 SUSHI 至您的 MetaMask 錢包"
+msgid "Add PIRATE to your MetaMask wallet"
+msgstr ""
 
 msgid "Add collateral in order to borrow assets"
 msgstr "添加抵押品以借出資產"
@@ -57,8 +57,8 @@ msgstr "添加抵押品以借出資產"
 msgid "Add liquidity"
 msgstr "添加流動性"
 
-msgid "Add xSUSHI to your MetaMask wallet"
-msgstr "新增 xSUSHI 至您的 MetaMask 錢包"
+msgid "Add xPIRATE to your MetaMask wallet"
+msgstr ""
 
 msgid "Add {0} to MetaMask"
 msgstr "新增 {0} 至 MetaMask"
@@ -326,8 +326,14 @@ msgstr "解散"
 msgid "Docs"
 msgstr "文档"
 
+msgid "Documentation for developers of PirateSwap."
+msgstr ""
+
 msgid "Documentation for developers of Sushi."
 msgstr "Sushi開發文檔。"
+
+msgid "Documentation for users of PirateSwap."
+msgstr ""
 
 msgid "Documentation for users of Sushi."
 msgstr "Sushi用户文档。"
@@ -727,6 +733,9 @@ msgstr "處理中"
 
 msgid "Pending Treasury Transfer"
 msgstr "等待金庫轉賬"
+
+msgid "PirateSwap is a supporter of Open Source."
+msgstr ""
 
 msgid "Please connect to the appropriate Ethereum network."
 msgstr "請連接到對應的以太坊網路。"

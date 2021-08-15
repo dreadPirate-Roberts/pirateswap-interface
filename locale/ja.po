@@ -48,8 +48,8 @@ msgstr "追加"
 msgid "Add Liquidity"
 msgstr "流動性を追加"
 
-msgid "Add SUSHI to your MetaMask wallet"
-msgstr "SUSHIをMetaMaskウォレットに追加"
+msgid "Add PIRATE to your MetaMask wallet"
+msgstr ""
 
 msgid "Add collateral in order to borrow assets"
 msgstr "資産を借り入れるために担保を追加"
@@ -57,8 +57,8 @@ msgstr "資産を借り入れるために担保を追加"
 msgid "Add liquidity"
 msgstr "流動性を追加"
 
-msgid "Add xSUSHI to your MetaMask wallet"
-msgstr "SUSHIをMetaMaskウォレットに追加"
+msgid "Add xPIRATE to your MetaMask wallet"
+msgstr ""
 
 msgid "Add {0} to MetaMask"
 msgstr "{0}をMetaMaskウォレットに追加"
@@ -326,8 +326,14 @@ msgstr "破棄"
 msgid "Docs"
 msgstr "ドキュメント"
 
+msgid "Documentation for developers of PirateSwap."
+msgstr ""
+
 msgid "Documentation for developers of Sushi."
 msgstr "Sushiの開発者向けドキュメント。"
+
+msgid "Documentation for users of PirateSwap."
+msgstr ""
 
 msgid "Documentation for users of Sushi."
 msgstr "Sushiのユーザー向けドキュメント。"
@@ -727,6 +733,9 @@ msgstr "保留中"
 
 msgid "Pending Treasury Transfer"
 msgstr "保留中の資金移動"
+
+msgid "PirateSwap is a supporter of Open Source."
+msgstr ""
 
 msgid "Please connect to the appropriate Ethereum network."
 msgstr "適切なイーサリアムネットワークに接続してください。"
