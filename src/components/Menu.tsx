@@ -11,18 +11,18 @@ import { useLingui } from '@lingui/react'
 const items = (i18n: I18n) => [
   {
     name: i18n._(t`Docs`),
-    description: i18n._(t`Documentation for users of Sushi.`),
-    href: 'https://docs.sushi.com',
+    description: i18n._(t`Documentation for users of PirateSwap.`),
+    href: 'https://docs.pirateswap.org',
   },
   {
     name: i18n._(t`Dev`),
-    description: i18n._(t`Documentation for developers of Sushi.`),
-    href: 'https://dev.sushi.com',
+    description: i18n._(t`Documentation for developers of PirateSwap.`),
+    href: 'https://dev.pirateswap.org',
   },
   {
     name: i18n._(t`Open Source`),
-    description: i18n._(t`Sushi is a supporter of Open Source.`),
-    href: 'https://github.com/sushiswap',
+    description: i18n._(t`PirateSwap is a supporter of Open Source.`),
+    href: 'https://github.com/dreadPirate-Roberts',
   },
   {
     name: i18n._(t`Tools`),
@@ -32,7 +32,7 @@ const items = (i18n: I18n) => [
   {
     name: i18n._(t`Discord`),
     description: i18n._(t`Join the community on Discord.`),
-    href: 'https://discord.gg/NVPXN4e',
+    href: 'https://discourse.pirateswap.org/',
   },
 ]
 
